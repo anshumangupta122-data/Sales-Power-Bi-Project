@@ -1,0 +1,1 @@
+Interactive Power BI Sales Analytics Dashboard analyzing revenue trends, YoY growth, regional performance, product contribution, and target vs actuals. Includes executive KPIs, drill-downs, slicers, and insights for data-driven business decision-making.
